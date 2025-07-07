@@ -1,122 +1,122 @@
 [
-  {
-    "id": 1,
-    "title": "SoundWave True Wireless Earbuds",
-    "price": 59.99,
-    "description": "Experience high-fidelity audio with active noise cancellation and 20-hour battery life. Perfect for music lovers on the go.",
-    "image": "https://picsum.photos/seed/earbuds/200/200",
-    "additionalInfo": "Bluetooth 5.0, USB-C charging, IPX5 water-resistant, available in black or white"
-  },
-  {
-    "id": 2,
-    "title": "FitTrack Pro Smartwatch",
-    "price": 129.99,
-    "description": "Track fitness goals with heart rate monitoring, sleep tracking, and a 7-day battery life. Compatible with iOS and Android.",
-    "image": "https://picsum.photos/seed/smartwatch/200/200",
-    "additionalInfo": "1.4-inch AMOLED display, waterproof up to 50m, multiple watch faces"
-  },
-  {
-    "id": 3,
-    "title": "PowerCore 10000mAh Charger",
-    "price": 29.99,
-    "description": "Ultra-compact power bank with fast-charging technology. Charges smartphones up to 3 times on a single charge.",
-    "image": "https://picsum.photos/seed/powerbank/200/200",
-    "additionalInfo": "LED charge indicator, USB-C and USB-A ports, lightweight design"
-  },
-  {
-    "id": 4,
-    "title": "BoomBox Mini Speaker",
-    "price": 79.99,
-    "description": "Compact yet powerful Bluetooth speaker with deep bass and 12-hour playtime. Ideal for outdoor adventures.",
-    "image": "https://picsum.photos/seed/speaker/200/200",
-    "additionalInfo": "IPX7 waterproof, built-in microphone, supports stereo pairing"
-  },
-  {
-    "id": 5,
-    "title": "MultiPort USB-C Adapter",
-    "price": 39.99,
-    "description": "Expand your laptop’s connectivity with 4K HDMI, USB 3.0, and SD card reader. Plug-and-play design.",
-    "image": "https://picsum.photos/seed/usbhub/200/200",
-    "additionalInfo": "Supports 100W power delivery, aluminum casing, compact size"
-  },
-  {
-    "id": 6,
-    "title": "ErgoFlow Wireless Mouse",
-    "price": 24.99,
-    "description": "Ergonomic wireless mouse with silent clicks and adjustable DPI. Perfect for work or gaming.",
-    "image": "https://picsum.photos/seed/mouse/200/200",
-    "additionalInfo": "2.4GHz wireless, 18-month battery life, 3 DPI levels"
-  },
-  {
-    "id": 7,
-    "title": "UltraSlim Laptop Stand",
-    "price": 34.99,
-    "description": "Adjustable aluminum laptop stand for improved ergonomics and cooling. Fits laptops up to 15 inches.",
-    "image": "https://picsum.photos/seed/laptopstand/200/200",
-    "additionalInfo": "Foldable design, non-slip pads, supports up to 8kg"
-  },
-  {
-    "id": 8,
-    "title": "Noise-Canceling Headphones",
-    "price": 99.99,
-    "description": "Immerse yourself in music with premium noise-canceling headphones and 30-hour battery life.",
-    "image": "https://picsum.photos/seed/headphones/200/200",
-    "additionalInfo": "Over-ear design, USB-C charging, foldable for travel"
-  },
-  {
-    "id": 9,
-    "title": "4K Webcam",
-    "price": 69.99,
-    "description": "Crystal-clear video for meetings and streaming with 4K resolution and built-in microphone.",
-    "image": "https://picsum.photos/seed/webcam/200/200",
-    "additionalInfo": "Autofocus, USB plug-and-play, 90-degree field of view"
-  },
-  {
-    "id": 10,
-    "title": "Wireless Charging Pad",
-    "price": 19.99,
-    "description": "Fast wireless charging pad compatible with Qi-enabled devices. Sleek and compact design.",
-    "image": "https://picsum.photos/seed/chargingpad/200/200",
-    "additionalInfo": "10W fast charging, non-slip surface, LED indicator"
-  },
-  {
-    "id": 11,
-    "title": "Smart LED Desk Lamp",
-    "price": 49.99,
-    "description": "Adjustable LED desk lamp with touch controls and multiple brightness levels for work or study.",
-    "image": "https://picsum.photos/seed/desklamp/200/200",
-    "additionalInfo": "USB charging port, 360-degree rotation, eye-care technology"
-  },
-  {
-    "id": 12,
-    "title": "Portable SSD 1TB",
-    "price": 119.99,
-    "description": "High-speed portable SSD with 1TB storage and USB 3.2 for fast data transfers.",
-    "image": "https://picsum.photos/seed/ssd/200/200",
-    "additionalInfo": "Shock-resistant, compatible with PC and Mac, USB-C cable included"
-  },
-  {
-    "id": 13,
-    "title": "Gaming Keyboard",
-    "price": 89.99,
-    "description": "Mechanical gaming keyboard with RGB backlighting and customizable keys for ultimate performance.",
-    "image": "https://picsum.photos/seed/keyboard/200/200",
-    "additionalInfo": "Anti-ghosting, programmable macros, durable aluminum frame"
-  },
-  {
-    "id": 14,
-    "title": "Smart Home Hub",
-    "price": 79.99,
-    "description": "Control your smart home devices with this compact hub. Supports voice assistants and Wi-Fi connectivity.",
-    "image": "https://picsum.photos/seed/smarthub/200/200",
-    "additionalInfo": "Compatible with Alexa and Google Home, easy setup, compact design"
-  },
-  {
-    "id": 15,
-    "title": "Fitness Tracker Band",
-    "price": 39.99,
-    "description": "Lightweight fitness tracker with step counting, calorie tracking, and heart rate monitoring.",
-    "image": "https://picsum.photos/seed/fitnesstracker/200/200",
-    "additionalInfo": "OLED display, 5-day battery life, water-resistant up to 30m"
-  }
+    {
+        "id": 1,
+        "title": "SoundWave True Wireless Earbuds",
+        "price": 59.99,
+        "description": "Experience high-fidelity audio with active noise cancellation and 20-hour battery life. Perfect for music lovers on the go.",
+        "image": "https://www.twintechpromo.com/9395-medium_default/soundwave-anc.jpg",
+        "additionalInfo": "Bluetooth 5.0, USB-C charging, IPX5 water-resistant, available in black or white"
+    },
+    {
+        "id": 2,
+        "title": "FitTrack Pro Smartwatch",
+        "price": 129.99,
+        "description": "Track fitness goals with heart rate monitoring, sleep tracking, and a 7-day battery life. Compatible with iOS and Android.",
+        "image": "https://orthopulse.co.uk/cdn/shop/files/FitTrackProAdvancedSmartwatch-CustomizableFeaturesHealthandFitnessMonitoring_3_720x.jpg?v=1727811846",
+        "additionalInfo": "1.4-inch AMOLED display, waterproof up to 50m, multiple watch faces"
+    },
+    {
+        "id": 3,
+        "title": "PowerCore 10000mAh Charger",
+        "price": 29.99,
+        "description": "Ultra-compact power bank with fast-charging technology. Charges smartphones up to 3 times on a single charge.",
+        "image": "https://gadgetbreeze.com.bd/wp-content/uploads/2023/03/Anker-PowerCore-10000-PD-Redux-Power-Bank.jpg",
+        "additionalInfo": "LED charge indicator, USB-C and USB-A ports, lightweight design"
+    },
+    {
+        "id": 4,
+        "title": "BoomBox Mini Speaker",
+        "price": 79.99,
+        "description": "Compact yet powerful Bluetooth speaker with deep bass and 12-hour playtime. Ideal for outdoor adventures.",
+        "image": "https://www.kigalidiscount.com/cdn/shop/files/lkpo_800x.png?v=1729639973",
+        "additionalInfo": "IPX7 waterproof, built-in microphone, supports stereo pairing"
+    },
+    {
+        "id": 5,
+        "title": "MultiPort USB-C Adapter",
+        "price": 39.99,
+        "description": "Expand your laptop’s connectivity with 4K HDMI, USB 3.0, and SD card reader. Plug-and-play design.",
+        "image": "https://assets.gadgetandgear.com/upload/product/20230218_1676707886_707894.png",
+        "additionalInfo": "Supports 100W power delivery, aluminum casing, compact size"
+    },
+    {
+        "id": 6,
+        "title": "ErgoFlow Wireless Mouse",
+        "price": 24.99,
+        "description": "Ergonomic wireless mouse with silent clicks and adjustable DPI. Perfect for work or gaming.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJgeiroFOnbPAWxVXVRwsz1JVrQ8yajGdlcw&s",
+        "additionalInfo": "2.4GHz wireless, 18-month battery life, 3 DPI levels"
+    },
+    {
+        "id": 7,
+        "title": "UltraSlim Laptop Stand",
+        "price": 34.99,
+        "description": "Adjustable aluminum laptop stand for improved ergonomics and cooling. Fits laptops up to 15 inches.",
+        "image": "https://m.media-amazon.com/images/I/51MSM1V3CoS._AC_SL1500_.jpg",
+        "additionalInfo": "Foldable design, non-slip pads, supports up to 8kg"
+    },
+    {
+        "id": 8,
+        "title": "Noise-Canceling Headphones",
+        "price": 99.99,
+        "description": "Immerse yourself in music with premium noise-canceling headphones and 30-hour battery life.",
+        "image": "https://www.startech.com.bd/image/cache/catalog/headphone/hifuture/futuretour/futuretour-01-500x500.webp",
+        "additionalInfo": "Over-ear design, USB-C charging, foldable for travel"
+    },
+    {
+        "id": 9,
+        "title": "4K Webcam",
+        "price": 69.99,
+        "description": "Crystal-clear video for meetings and streaming with 4K resolution and built-in microphone.",
+        "image": "https://www.multimediakingdom.com.bd/image/cache/catalog/2022/12/OBSBOT-Tiny-4K-AI-Powered-PTZ-4K-Webcam-600x500h.png.webp",
+        "additionalInfo": "Autofocus, USB plug-and-play, 90-degree field of view"
+    },
+    {
+        "id": 10,
+        "title": "Wireless Charging Pad",
+        "price": 19.99,
+        "description": "Fast wireless charging pad compatible with Qi-enabled devices. Sleek and compact design.",
+        "image": "https://www.cnet.com/a/img/resize/8dfd582b861be518dcb968d1f1b6de01ef114961/hub/2023/02/28/9da2e9c7-d07d-45cb-89d1-18c7013249e5/anker-315-wireless-charger.png?auto=webp&fit=crop&height=900&width=1200",
+        "additionalInfo": "10W fast charging, non-slip surface, LED indicator"
+    },
+    {
+        "id": 11,
+        "title": "Smart LED Desk Lamp",
+        "price": 49.99,
+        "description": "Adjustable LED desk lamp with touch controls and multiple brightness levels for work or study.",
+        "image": "https://thumbor.arvutitark.ee/UB4o8aFm5VOtBePv8LRdOzBpjG0=/trim/fit-in/800x800/https%3A%2F%2Fstatic.arvutitark.ee%2Fpublic%2Fmedia-hub-olev%2F2023%2F12%2F492442%2Foriginal.jpg",
+        "additionalInfo": "USB charging port, 360-degree rotation, eye-care technology"
+    },
+    {
+        "id": 12,
+        "title": "Portable SSD 1TB",
+        "price": 119.99,
+        "description": "High-speed portable SSD with 1TB storage and USB 3.2 for fast data transfers.",
+        "image": "https://fourstaritbd.com/wp-content/uploads/2023/01/sandisk-portable-ssd-02-price-in-bd-fourstarit.webp",
+        "additionalInfo": "Shock-resistant, compatible with PC and Mac, USB-C cable included"
+    },
+    {
+        "id": 13,
+        "title": "Gaming Keyboard",
+        "price": 89.99,
+        "description": "Mechanical gaming keyboard with RGB backlighting and customizable keys for ultimate performance.",
+        "image": "https://i5.walmartimages.com/seo/SteelSeries-Apex-Pro-Mini-HyperMagnetic-Gaming-Keyboard-World-s-Fastest-Keyboard-Compact-60-Form-Factor-With-Rapid-Tap_454b719d-3a26-409f-93fd-ce2dd06431c0.dc8d460c6fe0ba9b4121f77fadad820c.jpeg",
+        "additionalInfo": "Anti-ghosting, programmable macros, durable aluminum frame"
+    },
+    {
+        "id": 14,
+        "title": "Smart Home Hub",
+        "price": 79.99,
+        "description": "Control your smart home devices with this compact hub. Supports voice assistants and Wi-Fi connectivity.",
+        "image": "https://www.dusuniot.com/wp-content/uploads/2023/07/smart-home-hub.jpg",
+        "additionalInfo": "Compatible with Alexa and Google Home, easy setup, compact design"
+    },
+    {
+        "id": 15,
+        "title": "Fitness Tracker Band",
+        "price": 39.99,
+        "description": "Lightweight fitness tracker with step counting, calorie tracking, and heart rate monitoring.",
+        "image": "https://www.gadstyle.com/wp-content/uploads/2024/08/huawei-band-9-amoled-1-47-inch-screen-fitness-tracker-2.webp",
+        "additionalInfo": "OLED display, 5-day battery life, water-resistant up to 30m"
+    }
 ]
