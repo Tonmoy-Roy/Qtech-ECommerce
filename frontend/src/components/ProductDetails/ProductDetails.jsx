@@ -8,6 +8,7 @@ const ProductDetails = () => {
 
     const handleCart = (product) => {
         addToCart(product); // saves to context + localStorage
+        alert('✅ Items added to Cart!')
     };
 
     return (
