@@ -1,12 +1,14 @@
 import { useLoaderData } from 'react-router-dom';
-
+import useCart  from '../hook/useCart'
 const ProductDetails = () => {
     const products = useLoaderData();
     console.log(products);
 
-    function handleCart(){
-        alert("product added to cart");
-    }
+    const { addToCart } = useCart();
+
+    const handleCart = (product) => {
+        addToCart(product); // saves to context + localStorage
+    };
 
     return (
         <div>
