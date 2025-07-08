@@ -17,10 +17,9 @@ const Products = ({ product = {} }) => {
                 <p>Price : {product.price}$</p>
                 <div className='flex'>
                     <button className='btn btn-success mr-5'>Add to cart</button>
-                    <Link to={`/details/${product._id}`}>
+                    <Link to={`/details/${product.id}`}>
                         <button className='btn btn-neutral'>Details</button>
                     </Link>
-
                 </div>
             </div>
         </div>
