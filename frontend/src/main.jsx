@@ -26,7 +26,7 @@ const router = createBrowserRouter([
       {
         path: "/details/:id",
         element: <ProductDetails />,
-        loader: ({ params }) => fetch(`http://localhost:5000/productlist/${params.id}`)
+        loader: ({ params }) => fetch(`https://qtech-tonmoy9s-projects.vercel.app/productlist/${params.id}`)
       }
 
     ]

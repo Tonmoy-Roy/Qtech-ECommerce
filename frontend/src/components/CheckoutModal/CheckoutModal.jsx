@@ -20,8 +20,8 @@ const CheckoutModal = ({ isOpen, onClose }) => {
 
         console.log('Order submitted:', { ...form, cart, total: totalAmount });
         alert('✅ Order placed successfully!');
-        localStorage.removeItem('cart'); // clear cart
-        window.location.reload(); // optional: force UI reset
+        localStorage.removeItem('cart'); 
+        window.location.reload(); 
     };
 
     if (!isOpen) return null;
