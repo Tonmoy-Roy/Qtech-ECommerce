@@ -33,10 +33,10 @@ http://localhost:5173/   # (for Vite)
 
 ⚙️ Tech Stack Used
 Technology	Purpose
-React.js	     ->   Frontend framework
-React Router   -> 	SPA page routing
-Context API	   ->   Global state for cart management
-localStorage	 ->   Save cart data across sessions
-Tailwind CSS	 ->   Styling and responsive design
+React.js	     ->   Frontend framework,
+React Router   -> 	SPA page routing,
+Context API	   ->   Global state for cart management,
+localStorage	 ->   Save cart data across sessions,
+Tailwind CSS	 ->   Styling and responsive design,
 Netlify	       ->   Deployed frontend hosting (live demo)
 
